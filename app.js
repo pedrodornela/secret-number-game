@@ -23,7 +23,7 @@ function gerarNumeroAleatorio()
     else
     {
         listaDeNumeroSorteados.push(numeroEscolhido);
-        console.log(listaDeNumeroSorteados);
+        //console.log(listaDeNumeroSorteados);
         return numeroEscolhido;
     }
 }
